@@ -58,7 +58,7 @@ header ul li{
     height: 100vh;
     background-color: #0e0e0e;
     display: flex;
-    align-items: center;
+    padding-top:70px;
     justify-content: space-around;
 }
 
